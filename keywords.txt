@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ESPWiFiManager	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+autoConnect		KEYWORD2
+handleReset		KEYWORD2
+getConfigPortalSSID		KEYWORD2
+setConfigPortalTimeout		KEYWORD2
+setConnectTimeout		KEYWORD2
+setDebugOutput		KEYWORD2
+setAPCallback		KEYWORD2
+setSaveConfigCallback		KEYWORD2
